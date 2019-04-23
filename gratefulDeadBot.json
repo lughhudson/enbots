@@ -1,0 +1,32 @@
+{
+	"origin": ["#grateful_sym# #dead_sym#","#grateful_ant# #dead_ant#"],
+	
+		"grateful_sym" : 
+			
+			["Appreciative","Beholden","Pleased","Gratified","Thankful","Obliged","Owing",
+			"Responsible","Acceptable","Advisable","Agreeable","Beneficial","Covetable","Eligible",
+			"Enviable","Expedient","Helpful","Pleasing","Preferable","Worthwhile","Accountable",
+			"Bound","Duty-bound","In-debt","Welcome"],
+
+		"grateful_ant" : 
+
+			["Mean","Heedless","Rude","Thankless","Ungrateful","Abusive","Selfish","Careless",
+			"Demanding","Dissatisifed","Faultfinding","Forgetful","Grasping","Grumbling","Heedless",
+			"Ingrate","Insensible","Oblivious","Self-centered","Unappreciative","Unmindful","Cruel",
+			"Thoughtless","Greedy","Egomaniacal","Narrow-minded","Narcissistic","Voracious","Vain",
+			"Conceited","Smug","Stuck-up"],
+
+		"dead_sym":
+
+			["Deceased","Late","Departed","Expired","Bloodless","Buried","Asleep","Buried","Lifeless","Cold",
+			"Stiff","Gone","Erased","Extinct","Gone","Breathless","Bloodless","Defunct","Perished","Inert",
+			"Inanimate","Wasted","Hoisted","Drag","Threadbare","Zero","Ancient","Lost","Former","Ghastly",
+			"Spectral","Cadaverous"],
+
+		"dead_ant" : 
+
+			["Living","Animate","Existing","Being","Enduring","Persisting","Active","Operative","Warm","Working",
+			"Breathing","Contemporary","Alerted","Soul","Entity","Vivacity","Sentience","Vitality","Epoch","Era","Aeon",
+			"Span","Exuberance","Surviving","Period","Cycle","Time","Longevity","Lifetime","Mortal","Force","Vigor"]
+
+}
